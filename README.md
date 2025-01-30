@@ -1,8 +1,6 @@
 # tokenchecker
 Discord Account Token Checker. Nitro Checker, Boosts and more.
 
-# Tool Name
-
 ## Overview
 
 Nitro Token Checker is a powerful utility designed to check if the Discord Account Tokens have Nitro. Used to check if you can boost servers with them.
