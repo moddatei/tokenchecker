@@ -37,14 +37,15 @@ To use Tool Name, follow these instructions:
 
 I would really appreciate it if you'd donate me!
 
+Litecoin
   ```bash
    LLRgKkYkT1dr9m3TBmobibtGZQ31CRBTp3
    ```
-
+Bitcoin
   ```bash
    bc1qxjsv3rffalpqjqfmkays88xzavsr5ccn4649vd
    ```
-
+Ethereum
   ```bash
    0xeC77733F2d87cF899472039464e86Ec320818F4e
    ```
