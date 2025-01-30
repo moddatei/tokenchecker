@@ -11,7 +11,7 @@ To install Tool Name, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/moddatei/tool-name.git
+   git clone (https://github.com/moddatei/tokenchecker.git)
    ```
 2. Navigate to the project directory:
    ```bash
