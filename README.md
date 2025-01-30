@@ -33,3 +33,18 @@ To use Tool Name, follow these instructions:
    python nitrotoken.py
    ```
 
+## Donation
+
+I would really appreciate it if you'd donate me!
+
+  ```bash
+   LLRgKkYkT1dr9m3TBmobibtGZQ31CRBTp3
+   ```
+
+  ```bash
+   bc1qxjsv3rffalpqjqfmkays88xzavsr5ccn4649vd
+   ```
+
+  ```bash
+   0xeC77733F2d87cF899472039464e86Ec320818F4e
+   ```
